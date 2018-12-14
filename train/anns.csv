@@ -1,0 +1,71 @@
+,caption,image_file,image_id
+0,xxxx rule out pneumonia heart normal. lungs clear. calcified left lower lobe 5 mm granuloma .,./train/images/CXR832_IM-2359-1001.png,1430
+1,chest pain heart size is normal and lungs are clear. .,./train/images/CXR445_IM-2079-2001.png,4078
+2,none. xxxx dyspnea heart size normal. lungs clear. no edema or effusions. .,./train/images/CXR149_IM-0315-1002.png,490
+3,none xxxx and asthma heart size is normal and the lungs are clear. .,./train/images/CXR2228_IM-0831-1002.png,2156
+4,none. dyspnea both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR281_IM-1238-2001.png,3839
+5,none. chest pain heart size normal and lungs are clear. .,./train/images/CXR719_IM-2280-1001.png,4325
+6,chest pain heart size normal. lungs clear. .,./train/images/CXR433_IM-2073-2001.png,5602
+7,"chest pain, shortness of breath and xxxx no evidence of acute cardiopulmonary disease .",./train/images/CXR3553_IM-1741-1001.png,503
+8,history of dyspnea. stable cardiomegaly with large hiatal hernia. the lungs are clear .,./train/images/CXR2400_IM-0950-1002.png,3144
+9,ppd reactive no active disease. .,./train/images/CXR3358_IM-1611-1001.png,6764
+10,chest pain. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR1511_IM-0331-2001.png,4813
+11,chest pain. heart size is normal and the lungs are clear. .,./train/images/CXR766_IM-2311-1001.png,754
+12,preop for xxxx heart size normal. lungs clear. .,./train/images/CXR473_IM-2101-1002.png,2717
+13,none. wheezes. heart size is normal and lungs are clear. .,./train/images/CXR3114_IM-1462-1003.png,4432
+14,dyspnea heart size normal. lungs clear. calcified 5 mm right midlung granuloma. .,./train/images/CXR2574_IM-1074-1002.png,3088
+15,"history of syncope heart size is normal. lungs are clear. elevated right diaphragm, unchanged .",./train/images/CXR1789_IM-0513-1001.png,5675
+16,dyspnea heart size is normal and lungs are clear .,./train/images/CXR438_IM-2078-2001.png,842
+17,history of xxxx. heart size normal. right lung clear. minimal basilar atelectasis on the left .,./train/images/CXR78_IM-2322-3001.png,6551
+18,none xxxx both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR1168_IM-0112-1002.png,1491
+19,dyspnea 786.09 no active disease. .,./train/images/CXR3719_IM-1857-1001.png,1974
+20,"heart size is normal. lungs are clear. no effusion, nodules, adenopathy, or masses. .",./train/images/CXR360_IM-1776-1001.png,70
+21,no pneumothorax or effusion. no pneumonia. heart size normal. lungs clear .,./train/images/CXR3104_IM-1455-2001.png,4766
+22,history of dyspnea heart size is normal. lungs are clear. calcified granulomas. .,./train/images/CXR2490_IM-1017-2001.png,6399
+23,chills and xxxx xxxx heart size is normal and lungs are clear. no pneumonia. .,./train/images/CXR1618_IM-0399-1002.png,1296
+24,tuberculosis positive ppd heart size is normal and the lungs are clear. .,./train/images/CXR3998_IM-2048-1002.png,1045
+25,sob no active disease. .,./train/images/CXR3026_IM-1401-2001.png,1049
+26,pain no active disease. .,./train/images/CXR1975_IM-0634-3001.png,1523
+27,pain no active disease. .,./train/images/CXR2609_IM-1099-3001.png,5125
+28,none. anemia. heart size normal. lungs clear. .,./train/images/CXR1316_IM-0205-1002.png,5003
+29,none. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR1305_IM-0199-1002.png,3720
+30,none. dyspnea both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR3196_IM-1507-2001.png,340
+31,xxxx stable normal heart size. elevated right diaphragm. lungs are clear. .,./train/images/CXR205_IM-0689-3003.png,1541
+32,"chest pain heart size is normal and lungs are clear. no effusions, pneumonia, or pneumothorax. .",./train/images/CXR3008_IM-1389-2001.png,112
+33,none. chest pain heart upper limits normal. lungs clear .,./train/images/CXR2303_IM-0882-2001.png,357
+34,chronic xxxx. heart size normal and lungs clear. .,./train/images/CXR1814_IM-0527-2001.png,1790
+35,chest pain heart size is normal the lungs are clear .,./train/images/CXR727_IM-2287-1001.png,3952
+36,tb heart size normal. lungs clear. no evidence of tuberculosis. no change from prior exam .,./train/images/CXR1746_IM-0489-1001.png,1559
+37,none. chest pain heart size is normal and lungs are clear. .,./train/images/CXR1809_IM-0524-2001.png,7345
+38,chest pain no active disease. .,./train/images/CXR3225_IM-1525-2001.png,1326
+39,history of chest pain cardiomegaly stable. lungs clear. no edema or effusions .,./train/images/CXR665_IM-2240-2001.png,2765
+40,none. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR3701_IM-1848-1001.png,5171
+41,persistent xxxx. heart size is normal and the lungs are clear. no effusions. .,./train/images/CXR2996_IM-1381-1002.png,2529
+42,tuberculosis +ppd heart size is normal. lungs are clear. no evidence of tuberculosis. .,./train/images/CXR815_IM-2346-1001.png,6075
+43,heart size normal. lungs are clear. .,./train/images/CXR3453_IM-1676-0001-0002.png,2054
+44,chest pain heart size is normal and lungs are clear. .,./train/images/CXR985_IM-2472-1001.png,1580
+45,tuberculosis +ppd heart size is normal and lungs are clear. no evidence of tuberculosis .,./train/images/CXR413_IM-2056-1002.png,391
+46,heart size normal. lungs are clear. .,./train/images/CXR2772_IM-1213-2001.png,2543
+47,"none. dyspnea heart size is normal. lungs are clear. no effusions, pneumonia, or edema .",./train/images/CXR2436_IM-0976-2001.png,5436
+48,heart size is normal and lungs are clear. .,./train/images/CXR882_IM-2397-0001-0002.png,2286
+49,none. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR100_IM-0002-1001.png,2304
+50,"none history of dyspnea cardiomegaly with interstitial edema. no effusions, pneumonia, nodules or masses. .",./train/images/CXR1375_IM-0241-3001.png,6897
+51,none. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR3176_IM-1497-1001.png,6176
+52,history of dyspnea heart size normal. lungs clear. stable 5 mm calcified right midlung nodule .,./train/images/CXR1842_IM-0545-1001.png,5452
+53,tuberculosis +ppd. heart size is normal and lungs are clear. no evidence of tuberculosis .,./train/images/CXR3133_IM-1474-1002.png,3522
+54,none. xxxx xxxx heart size normal. lungs are clear. .,./train/images/CXR1038_IM-0029-2001.png,5700
+55,none. xxxx/wheeze both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR3560_IM-1745-1001.png,7002
+56,chest pain no active disease. .,./train/images/CXR2435_IM-0976-2001.png,4972
+57,none. dyspnea both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR3763_IM-1883-2001.png,7322
+58,rule out infiltrates heart size normal and lungs are clear .,./train/images/CXR243_IM-0971-2001.png,4016
+59,chest pain heart size normal. tortuous dilated aorta. minimal basilar infiltrate left base .,./train/images/CXR2125_IM-0749-2001.png,7404
+60,none. both lungs are clear and expanded. heart and mediastinum normal. no active disease. .,./train/images/CXR1434_IM-0279-2001.png,437
+61,preop right knee replacement heart size is normal and the lungs are clear. .,./train/images/CXR3215_IM-1520-1003.png,6452
+62,history of dyspnea heart size is normal and the lungs are clear. calcified aortic xxxx. .,./train/images/CXR2705_IM-1171-1001.png,690
+63,"heart size is normal and lungs are clear. no nodules, masses, effusions, or pneumonia .",./train/images/CXR3823_IM-1930-2001.png,6152
+64,history of chest pain. slight cardiomegaly. clear lungs. .,./train/images/CXR2221_IM-0825-2001.png,3968
+65,mild asthma heart size is normal and the lungs are clear. .,./train/images/CXR320_IM-1511-1001.png,4520
+66,none chest pain dyspnea slight cardiomegaly. clear lungs. no effusion .,./train/images/CXR530_IM-2139-1001.png,3803
+67,right chest pain heart size is normal and the lungs are clear. no nodules or masses. .,./train/images/CXR602_IM-2192-1002.png,945
+68,chest pain no active disease. .,./train/images/CXR2604_IM-1094-2001.png,2258
+69,xxxx and dyspnea increasing cardiomegaly. no effusions. minimal interstitial edema. .,./train/images/CXR3372_IM-1623-2001.png,7187
